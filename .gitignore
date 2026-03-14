@@ -1,0 +1,8 @@
+build/
+*.o
+*.a
+*.pcap
+!test/fixtures/sample.pcap
+__pycache__/
+*.pyc
+.DS_Store
